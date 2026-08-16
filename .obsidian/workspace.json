@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Career/Customer Stories/04 When the Customer Is in a Hurry, but the Process Isn't Ready.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "04 When the Customer Is in a Hurry, but the Process Isn't Ready"
             }
           },
           {
@@ -55,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -197,6 +199,9 @@
   },
   "active": "97c63fb31a8e7256",
   "lastOpenFiles": [
+    "Career/Customer Stories/01 Staying With a Long-Cycle B2B Opportunity.md",
+    "Career/Customer Stories/04 When the Customer Is in a Hurry, but the Process Isn't Ready.md",
+    "About.md",
     "99 Assets",
     "04 Archive",
     "03 Resources",
@@ -209,7 +214,6 @@
     "05 Archive",
     "04 Resources",
     "03 Areas",
-    "02 Systems",
-    "01 Projects"
+    "02 Systems"
   ]
 }
