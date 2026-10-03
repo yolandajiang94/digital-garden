@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career/Customer Stories/04 When the Customer Is in a Hurry, but the Process Isn't Ready.md",
+                "file": "About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 When the Customer Is in a Hurry, but the Process Isn't Ready"
+              "title": "About"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Inbox/2026-07-10 - Why I Started My Digital Garden.md",
+                "file": "Thinking/03 Starting Without Seeing the Whole Picture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-10 - Why I Started My Digital Garden"
+              "title": "03 Starting Without Seeing the Whole Picture"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,23 +198,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "97c63fb31a8e7256",
+  "active": "1701ff6bc6e225fa",
   "lastOpenFiles": [
-    "Career/Customer Stories/01 Staying With a Long-Cycle B2B Opportunity.md",
-    "Career/Customer Stories/04 When the Customer Is in a Hurry, but the Process Isn't Ready.md",
+    "Thinking/index.md",
+    "Thinking/03 Starting Without Seeing the Whole Picture.md",
+    "Notes/index.md",
+    "Thinking/02 From Automatic Response to Conscious Choice.md",
+    "Thinking/01 Learning How Much Attention to Give.md",
+    "Living/03 Expanding My Life Beyond Familiar Places.md",
+    "Notes/05 What I Was Looking For — 2026.md",
+    "Notes/04 Growing in Industrial B2B Sales.md",
+    "Thinking/09 The Power of Small Progress.md",
+    "Thinking/08 Breaking Big Things Into Small Steps.md",
+    "Thinking/07 Finding the Next Step When the Future Is Unclear.md",
+    "Thinking/06 The Question I Should Have Asked.md",
+    "Thinking/05 From Passive Response to Active Choice.md",
+    "Thinking/04 Internal Closure and the Freedom to Move Forward.md",
+    "Thinking/03 When Explaining Became an Automatic Reaction.md",
+    "Thinking/02 Learning What Truly Deserves My Attention.md",
+    "Living/02 Finding My Own Space in a Busy City.md",
+    "Notes/00 Why I Started My Digital Garden.md",
+    "Notes/02 My First Industrial B2B Experience.md",
+    "Notes/03 Finding My Way Back to Foreign Trade.md",
+    "Notes/01 How I Chose My Major.md",
+    "Living/01 How My Understanding of Home Changed Over Time.md",
+    "Career/Customer Stories/04 A Step-by-Step Approach to Troubleshooting a Low-Current Testing Issue.md",
     "About.md",
+    "index.md",
+    "Living/index.md",
+    "Notes",
     "99 Assets",
     "04 Archive",
     "03 Resources",
     "02 Areas",
     "01 Projects",
-    "00 Inbox/2026-07-10 - Why I Started My Digital Garden.md",
-    "README.md",
-    "欢迎.md",
     "Assets",
     "05 Archive",
     "04 Resources",
-    "03 Areas",
-    "02 Systems"
+    "03 Areas"
   ]
 }
