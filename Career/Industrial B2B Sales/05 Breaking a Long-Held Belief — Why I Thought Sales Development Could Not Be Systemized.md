@@ -1,3 +1,6 @@
+---
+date: 2026-09-20
+---
 After years in overseas B2B sales, I gradually developed a strong belief:
 
 Outbound sales development was difficult to systemize.

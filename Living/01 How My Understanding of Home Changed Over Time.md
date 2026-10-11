@@ -1,3 +1,6 @@
+---
+date: 2026-07-12
+---
 After graduating in June 2017, I moved to Shenzhen.
 
 During my first year of work, I lived in a company dormitory near an industrial park. At the time, I paid little attention to my living environment, as work and gaining experience felt much more important.
@@ -61,6 +64,11 @@ Those streets and shops had always been there.
 I simply had not had much time or mental space to notice them before.
 
 ## **Finding What I Wanted in a Home**
+
+
+<img src="/images/balcony-view.jpg" alt="View from my balcony" width="800">
+
+
 
 In April 2026, I left Baishilong, where I had lived for many years, and moved from Longhua to Bantian in Longgang.
 
